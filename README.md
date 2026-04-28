@@ -1,6 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Full-stack web applications and AI-based systems like ThreatScope and ItemSync<br>👯 I’m looking to collaborate on<br>Open-source projects in Web Development, AI, and MERN stack<br>🤝 I’m looking for help with<br>Advanced system design, scalable backend architecture, and AI integrations<br>🌱 I’m currently learning<br>Next.js, System Design, and Advanced AI/ML concepts<br>💬 Ask me about<br>React, Frontend Development, APIs, MERN stack, and Problem Solving<br>⚡ Fun fact<br>If I’m not coding, I’m probably gaming or exploring new technologies
-
+🔭 Working on Full-Stack & AI-driven applications (ThreatScope, ItemSync)
+👯 Open to collaborating on Web, AI, and MERN-based open-source projects
+🤝 Seeking guidance in System Design, Scalable Architectures & AI integration
+🌱 Learning Next.js, System Design & advanced AI/ML concepts
+💬 Skilled in React, APIs, MERN Stack & Problem Solving
+⚡ Beyond coding: Gaming & exploring emerging technologies
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankushkr25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankush-kumar-2892a4285) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankush3274@gmail.com) 
