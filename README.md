@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 Working on Full-Stack & AI-driven applications (ThreatScope, ItemSync)
-👯 Open to collaborating on Web, AI, and MERN-based open-source projects
-🤝 Seeking guidance in System Design, Scalable Architectures & AI integration
-🌱 Learning Next.js, System Design & advanced AI/ML concepts
-💬 Skilled in React, APIs, MERN Stack & Problem Solving
+🔭 Working on Full-Stack & AI-driven applications (ThreatScope, ItemSync)<br>
+👯 Open to collaborating on Web, AI, and MERN-based open-source projects<br>
+🤝 Seeking guidance in System Design, Scalable Architectures & AI integration<br>
+🌱 Learning Next.js, System Design & advanced AI/ML concepts<br>
+💬 Skilled in React, APIs, MERN Stack & Problem Solving<br>
 ⚡ Beyond coding: Gaming & exploring emerging technologies
 
 ## 🌐 Socials:
